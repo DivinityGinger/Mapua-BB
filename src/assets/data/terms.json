@@ -1,0 +1,617 @@
+[
+    {
+        "id": "COMPLETION MODULES",
+        "courses": [
+            {
+                "id": "PHY10-8_COMPLETION-MODULES",
+                "title": "College Physics 1 Completion Modules",
+                "professor": "Multiple Instructors",
+                "status": "Open",
+                "image": "./src/assets/background/bc-12.jpg"
+            }
+        ]
+    },
+    {
+        "id": "2T2425",
+        "courses": [
+            {
+                "id": "ITS105_BM3_2T2425",
+                "title": "3 Social and Professional Issues",
+                "professor": "Alberto Villaluz",
+                "status": "Open",
+                "image": "./src/assets/background/bc-1.jpg"
+            },
+            {
+                "id": "ITS164L_BM3_2T2425",
+                "title": "Advanced Computer Network 2",
+                "professor": "William Rey",
+                "status": "Open",
+                "image": "./src/assets/background/bc-2.jpg"
+            },
+            {
+                "id": "ITS120_BM3_2T2425",
+                "title": "Application Development and Emerging Technologies",
+                "professor": "Sally Zara",
+                "status": "Open",
+                "image": "./src/assets/background/bc-3.jpg"
+            },
+            {
+                "id": "ITS120L_BM4_2T2425",
+                "title": "Application Development and Emerging Technologies Laboratory",
+                "professor": "Leo Matthew Sarne",
+                "status": "Open",
+                "image": "./src/assets/background/bc-4.jpg"
+            },
+            {
+                "id": "PHY10-8_EM01_2T2425",
+                "title": "College Physics 1",
+                "professor": "Ma. liza Daluz",
+                "status": "Open",
+                "image": "./src/assets/background/bc-5.jpg"
+            },
+            {
+                "id": "CSS182-3_BM1_2T2425",
+                "title": "Data Science 3",
+                "professor": "John Paul Tomas",
+                "status": "Open",
+                "image": "./src/assets/background/bc-6.jpg"
+            },
+            {
+                "id": "MATH154-1_BM1_2T2425",
+                "title": "Quantitative Methods",
+                "professor": "Hanzel Monforte",
+                "status": "Open",
+                "image": "./src/assets/background/bc-7.jpg"
+            },
+            {
+                "id": "RZL110_BM6_2T2425",
+                "title": "The Life and Works of Rizal",
+                "professor": "Hermiliza Romero",
+                "status": "Open",
+                "image": "./src/assets/background/bc-8.jpg"
+            },
+            {
+                "id": "CSS200-1_BM1_2T2425",
+                "title": "Thesis 1",
+                "professor": "William Torres",
+                "status": "Open",
+                "image": "./src/assets/background/bc-9.jpg"
+            },
+            {
+                "id": "ITS122_BM3_2T2425",
+                "title": "Web Systems and Technologies 2",
+                "professor": "Felipe Ante",
+                "status": "Open",
+                "image": "./src/assets/background/bc-10.jpg"
+            },
+            {
+                "id": "ITS122L_BM1_2T2425",
+                "title": "Web Systems and Technologies 2 Laboratory",
+                "professor": "John Emmanuel Dela Vega",
+                "status": "Open",
+                "image": "./src/assets/background/bc-11.jpg"
+            }
+        ]
+    },
+    {
+        "id": "1T2425",
+        "courses": [
+            {
+                "id": "ITS163L_BM4_1_1T2425",
+                "title": "Advanced Computer Network 1",
+                "professor": "Ken Robert San Juan",
+                "status": "Open",
+                "image": "./src/assets/background/bc-12.jpg"
+            },
+            {
+                "id": "CSS182-2_BM1_1T2425",
+                "title": "Data Science 2",
+                "professor": "John Paul Tomas",
+                "status": "Open",
+                "image": "./src/assets/background/bc-1.jpg"
+            },
+            {
+                "id": "ITS165_BM4_1T2425",
+                "title": "Information Assurance and Security 1",
+                "professor": "Eric Blancaflor",
+                "status": "Open",
+                "image": "./src/assets/background/bc-2.jpg"
+            },
+            {
+                "id": "CSS141_BM1_1T2425",
+                "title": "Numerical Methods",
+                "professor": "Ken Robert San Juan",
+                "status": "Open",
+                "image": "./src/assets/background/bc-3.jpg"
+            },
+            {
+                "id": "ITS150_BM1_1T2425",
+                "title": "Operating Systems",
+                "professor": "William Rey",
+                "status": "Open",
+                "image": "./src/assets/background/bc-4.jpg"
+            },
+            {
+                "id": "ITS150L_BM3_1T2425",
+                "title": "Operating Systems Laboratory",
+                "professor": "John Paul Tomas",
+                "status": "Open",
+                "image": "./src/assets/background/bc-5.jpg"
+            },
+            {
+                "id": "CSS125_BM1_1T2425",
+                "title": "Principles of Programming Languages",
+                "professor": "Elcid Serrano",
+                "status": "Open",
+                "image": "./src/assets/background/bc-6.jpg"
+            },
+            {
+                "id": "CSS125L_BM3_1T2425",
+                "title": "Principles of Programming Languages Laboratory",
+                "professor": "Elcid Serrano",
+                "status": "Open",
+                "image": "./src/assets/background/bc-7.jpg"
+            },
+            {
+                "id": "CSS109_BM3_1T2425",
+                "title": "Research Methods in Computer Science",
+                "professor": "John Paul Tomas",
+                "status": "Open",
+                "image": "./src/assets/background/bc-8.jpg"
+            }
+        ]
+    },
+    {
+        "id": "4Q2324",
+        "courses":[
+            {
+                "id": "GED108_BM4_4Q2324",
+                "title": "Art Appreciation",
+                "professor": "Jose Rafael Benito",
+                "status": "Open",
+                "image": "./src/assets/background/bc-9.jpg"
+            },
+            {
+                "id": "CSS182-1_BM2_4Q2324",
+                "title": "Data Science 1",
+                "professor": "Mary Jane Samonte",
+                "status": "Open",
+                "image": "./src/assets/background/bc-10.jpg"
+            },
+            {
+                "id": "ITS132_BM4_4Q2324",
+                "title": "Data Warehousing and Data Mining",
+                "professor": "Geldof Resuello",
+                "status": "Open",
+                "image": "./src/assets/background/bc-11.jpg"
+            },
+            {
+                "id": "ITS132L_BM4_4Q2324",
+                "title": "Data Warehousing and Data Mining Laboratory",
+                "professor": "Geldof Resuello",
+                "status": "Open",
+                "image": "./src/assets/background/bc-12.jpg"
+            },
+            {
+                "id": "CSS142_BM1_4Q2324",
+                "title": "Modeling and Simulation Theory",
+                "professor": "Joel De Goma",
+                "status": "Open",
+                "image": "./src/assets/background/bc-1.jpg"
+            },
+            {
+                "id": "CSS142L_BM1_4Q2324",
+                "title": "Modeling and Simulation Theory Laboratory",
+                "professor": "Joel De Goma",
+                "status": "Open",
+                "image": "./src/assets/background/bc-2.jpg"
+            },
+            {
+                "id": "GED110_BM1_4Q2324",
+                "title": "People and Earth Ecosystem",
+                "professor": "May Lass Pasana",
+                "status": "Open",
+                "image": "./src/assets/background/bc-3.jpg"
+            }
+        ]
+    },
+    {
+        "id": "3Q2324",
+        "courses":[
+            {
+                "id": "CSS133_BM3_3Q2324",
+                "title": "Algorithms and Complexity",
+                "professor": "Joel De Goma",
+                "status": "Open",
+                "image": "./src/assets/background/bc-4.jpg"
+            },
+            {
+                "id": "CSS134_BM3_3Q2324",
+                "title": "Automata Theory and Formal Languages",
+                "professor": "Leopoldo Gabriel",
+                "status": "Open",
+                "image": "./src/assets/background/bc-5.jpg"
+            },
+            {
+                "id": "ITS162L_BM4_3Q2324",
+                "title": "Fundamentals of Computer Network 2",
+                "professor": "Ken Robert San Juan",
+                "status": "Locked",
+                "image": "./src/assets/background/bc-8.jpg"
+            },
+            {
+                "id": "ITS111L_BM4_3Q2324",
+                "title": "Logic Circuits and Digital Design Laboratory",
+                "professor": "Joel De Goma",
+                "status": "Open",
+                "image": "./src/assets/background/bc-9.jpg"
+            },
+            {
+                "id": "CSS152_BM4_3Q2324",
+                "title": "Software Engineering 2",
+                "professor": "Antonette Gabriel",
+                "status": "Open",
+                "image": "./src/assets/background/bc-10.jpg"
+            },
+            {
+                "id": "CSS152L_BM4_3Q2324",
+                "title": "Software Engineering 2 Laboratory",
+                "professor": "Antonette Gabriel",
+                "status": "Open",
+                "image": "./src/assets/background/bc-11.jpg"
+            },
+            {
+                "id": "ITS111_BM1_3Q2324",
+                "title": "Logic Circuits and Digital Design",
+                "professor": "Genedina Coronado",
+                "status": "Open",
+                "image": "./src/assets/background/bc-12.jpg"
+            }
+        ]
+    },
+    {
+        "id": "2Q2324",
+        "courses": [
+            {
+                "id": "CSS140_BM3_2Q2324",
+                "title": "Artificial Intelligence",
+                "professor": "Renilda Layno",
+                "status": "Open",
+                "image": "./src/assets/background/bc-1.jpg"
+            },
+            {
+                "id": "PHY10-8_BM1_2Q2324",
+                "title": "College Physics 1",
+                "professor": "Ma. liza Daluz",
+                "status": "Open",
+                "image": "./src/assets/background/bc-2.jpg"
+            },
+            {
+                "id": "PHY10-8L_BM1_2Q2324",
+                "title": "College Physics 1 Laboratory",
+                "professor": "Ma. liza Daluz",
+                "status": "Open",
+                "image": "./src/assets/background/bc-3.jpg"
+            },
+            {
+                "id": "ITS112_AM7_2Q2324",
+                "title": "Computer Architecture and Organization",
+                "professor": "Joel De Goma",
+                "status": "Open",
+                "image": "./src/assets/background/bc-4.jpg"
+            },
+            {
+                "id": "ITS112L_AM8_2Q2324",
+                "title": "Computer Architecture and Organization Laboratory",
+                "professor": "Leopoldo Gabriel",
+                "status": "Open",
+                "image": "./src/assets/background/bc-5.jpg"
+            },
+            {
+                "id": "ITS161L_BM3_2Q2324",
+                "title": "Fundamentals of Computer Network 1",
+                "professor": "Eric Blancaflor",
+                "status": "Open",
+                "image": "./src/assets/background/bc-6.jpg"
+            },
+            {
+                "id": "ITS141_BM3_2Q2324",
+                "title": "Human-Computer Interaction 1",
+                "professor": "Elcid Serrano",
+                "status": "Open",
+                "image": "./src/assets/background/bc-7.jpg"
+            },
+            {
+                "id": "CSS151_BM1_2Q2324",
+                "title": "Software Engineering 1",
+                "professor": "Antonette Gabriel",
+                "status": "Open",
+                "image": "./src/assets/background/bc-8.jpg"
+            },
+            {
+                "id": "CSS151L_BM3_2Q2324",
+                "title": "Software Engineering 1 Laboratory",
+                "professor": "Antonette Gabriel",
+                "status": "Open",
+                "image": "./src/assets/background/bc-9.jpg"
+            }
+        ]
+    },
+    {
+        "id": "1Q2324",
+        "courses": [
+            {
+                "id": "CSS132_BM1_1Q2324",
+                "title": "Discrete Mathematics 2",
+                "professor": "Renilda Layno",
+                "status": "Open",
+                "image": "./src/assets/background/bc-10.jpg"
+            },
+            {
+                "id": "CSS124_BM1_1Q2324",
+                "title": "Event-Driven/GUI Programming",
+                "professor": "Antonette Gabriel",
+                "status": "Open",
+                "image": "./src/assets/background/bc-11.jpg"
+            },
+            {
+                "id": "CSS124L_BM1_1Q2324",
+                "title": "Event-Driven/GUI Programming Laboratory",
+                "professor": "Antonette Gabriel",
+                "status": "Open",
+                "image": "./src/assets/background/bc-12.jpg"
+            },
+            {
+                "id": "GED109_BM1_1Q2324",
+                "title": "Gender and Society",
+                "professor": "Alvin Ignacio",
+                "status": "Open",
+                "image": "./src/assets/background/bc-1.jpg"
+            },
+            {
+                "id": "CSS145_BM1_1Q2324",
+                "title": "Introduction to Data Science",
+                "professor": "Martin Joseph Guinto",
+                "status": "Open",
+                "image": "./src/assets/background/bc-2.jpg"
+            },
+            {
+                "id": "GED106_BM1_1Q2324",
+                "title": "Purposive Communication",
+                "professor": "Charity Manuel",
+                "status": "Open",
+                "image": "./src/assets/background/bc-3.jpg"
+            }
+        ]
+    },
+    {
+        "id": "4Q2223",
+        "courses": [
+            {
+                "id": "CWTS103_AM3_4Q2223",
+                "title": "Civic Welfare Training Service 03",
+                "professor": "Multiple Instructors",
+                "status": "Open",
+                "image": "./src/assets/background/bc-4.jpg"
+            },
+            {
+                "id": "CSS131_BM1_4Q2223",
+                "title": "Discrete Mathematics 1",
+                "professor": "Joel De Goma",
+                "status": "Open",
+                "image": "./src/assets/background/bc-5.jpg"
+            },
+            {
+                "id": "GED102_BM1_4Q2223",
+                "title": "Mathematics in the Modern World",
+                "professor": "Multiple Instructors",
+                "status": "Open",
+                "image": "./src/assets/background/bc-6.jpg"
+            },
+            {
+                "id": "CSS123_BM1_4Q2223",
+                "title": "Object-Oriented Programming",
+                "professor": "Antonette Gabriel",
+                "status": "Open",
+                "image": "./src/assets/background/bc-7.jpg"
+            },
+            {
+                "id": "CSS123L_BM1_4Q2223",
+                "title": "Object-Oriented Programming Laboratory",
+                "professor": "Antonette Gabriel",
+                "status": "Open",
+                "image": "./src/assets/background/bc-8.jpg"
+            },
+            {
+                "id": "FW04-1_BM1_4Q2223",
+                "title": "Physical Activities Toward Health and Fitness 4 (Pathfit 4): Group Exercise",
+                "professor": "Augusto Sunga",
+                "status": "Open",
+                "image": "./src/assets/background/bc-9.jpg"
+            },
+            {
+                "id": "GED103_BM1_4Q2223",
+                "title": "Readings in Philippine History",
+                "professor": "Charity Manuel",
+                "status": "Open",
+                "image": "./src/assets/background/bc-10.jpg"
+            }
+        ]
+    },
+    {
+        "id": "3Q2223",
+        "courses": [
+            {
+                "id": "CWTS102_AM1_3Q2223",
+                "title": "Civic Welfare Training Service 02",
+                "professor": "Multiple Instructors",
+                "status": "Locked",
+                "image": "./src/assets/background/bc-11.jpg"
+            },
+            {
+                "id": "CSS130_BM1_3Q2223",
+                "title": "Data Structures and Algorithms",
+                "professor": "Gloren Fuentes",
+                "status": "Open",
+                "image": "./src/assets/background/bc-12.jpg"
+            },
+            {
+                "id": "GED117_BM1_3Q2223",
+                "title": "Great Books",
+                "professor": "Charity Manuel",
+                "status": "Open",
+                "image": "./src/assets/background/bc-1.jpg"
+            },
+            {
+                "id": "ITS131_BM1_3Q2223",
+                "title": "Information Management",
+                "professor": "Maylyn Bautista",
+                "status": "Open",
+                "image": "./src/assets/background/bc-2.jpg"
+            },
+            {
+                "id": "ITS131L_BM1_3Q2223",
+                "title": "Information Management Laboratory",
+                "professor": "John Paul Tomas",
+                "status": "Open",
+                "image": "./src/assets/background/bc-3.jpg"
+            },
+            {
+                "id": "FW03-1_BM1_3Q2223",
+                "title": "Physical Activities Toward Health and Fitness 3 (Pathfit 3): Dance",
+                "professor": "Roberto Andrew Roque",
+                "status": "Open",
+                "image": "./src/assets/background/bc-4.jpg"
+            },
+            {
+                "id": "GED101_BM1_3Q2223",
+                "title": "Understanding the Self",
+                "professor": "Ricardo Gaton",
+                "status": "Open",
+                "image": "./src/assets/background/bc-5.jpg"
+            }
+        ]
+    },
+    {
+        "id": "2Q2223",
+        "courses": [
+            {
+                "id": "CWTS101-AM27_2Q2223",
+                "title": "Civic Welfare Training Service 01",
+                "professor": "Multiple Instructors",
+                "status": "Open",
+                "image": "./src/assets/background/bc-6.jpg"
+            },
+            {
+                "id": "CSS122_BM2_2Q2223",
+                "title": "Computer Programming 2",
+                "professor": "Maylyn Bautista",
+                "status": "Open",
+                "image": "./src/assets/background/bc-7.jpg"
+            },
+            {
+                "id": "CSS122L_BM7_2Q2223",
+                "title": "Computer Programming 2 Laboratory",
+                "professor": "Multiple Instructors",
+                "status": "Open",
+                "image": "./src/assets/background/bc-8.jpg"
+            },
+            {
+                "id": "GED107_BM7_2Q2223",
+                "title": "Ethics",
+                "professor": "Andres Sebastian Narra",
+                "status": "Open",
+                "image": "./src/assets/background/bc-9.jpg"
+            },
+            {
+                "id": "FW02-1_BM7_2Q2223",
+                "title": "Physical Activities Toward Health and Fitness 2 (Pathfit 2): Exercise",
+                "professor": "Roberto Andrew Roque",
+                "status": "Open",
+                "image": "./src/assets/background/bc-10.jpg"
+            },
+            {
+                "id": "GED105_BM2_2Q2223",
+                "title": "The Contemporary World",
+                "professor": "Tumoroh C. Brazalote",
+                "status": "Locked",
+                "image": "./src/assets/background/bc-11.jpg"
+            },
+            {
+                "id": "GED105_BM7_2Q2223",
+                "title": "The Contemporary World",
+                "professor": "Tumoroh C. Brazalote",
+                "status": "Locked",
+                "image": "./src/assets/background/bc-12.jpg"
+            },
+            {
+                "id": "ITS121L_BM7_2Q2223",
+                "title": "Web Systems and Technologies 1 Laboratory",
+                "professor": "Angelo Aquino",
+                "status": "Open",
+                "image": "./src/assets/background/bc-1.jpg"
+            }
+        ]
+    },
+    {
+        "id": "1Q2223",
+        "courses": [
+            {
+                "id": "MATH146_AM5_1Q2223",
+                "title": "Calculus",
+                "professor": "Multiple Instructors",
+                "status": "Open",
+                "image": "./src/assets/background/bc-2.jpg"
+            },
+            {
+                "id": "ITS110L_AM5_1Q2223",
+                "title": "Computer Hardware and Troubleshooting",
+                "professor": "Joel De Goma",
+                "status": "Open",
+                "image": "./src/assets/background/bc-3.jpg"
+            },
+            {
+                "id": "CSS121_AM5_1Q2223",
+                "title": "Computer Programming 1",
+                "professor": "Gloren Fuentes",
+                "status": "Open",
+                "image": "./src/assets/background/bc-4.jpg"
+            },
+            {
+                "id": "CSS121L_AM5_1Q2223",
+                "title": "Computer Programming 1 Laboratory",
+                "professor": "Multiple Instructors",
+                "status": "Open",
+                "image": "./src/assets/background/bc-5.jpg"
+            },
+            {
+                "id": "CSS100_AM5_1Q2223",
+                "title": "Introduction to Computer Science",
+                "professor": "Madylaine Delfin",
+                "status": "Locked",
+                "image": "./src/assets/background/bc-6.jpg"
+            },
+            {
+                "id": "NSTP100_AM5_1Q2223",
+                "title": "National Service Training Program 1",
+                "professor": "Multiple Instructors",
+                "status": "Locked",
+                "image": "./src/assets/background/bc-7.jpg"
+            },
+            {
+                "id": "FW01-1_AM5_1Q2223",
+                "title": "Physical Activities Toward Health and Fitness 1 (Pathfit 1): Movement Complexity Training",
+                "professor": "Cynthia Salazar",
+                "status": "Open",
+                "image": "./src/assets/background/bc-8.jpg"
+            },
+            {
+                "id": "GED104_AM5_1Q2223",
+                "title": "Science, Technology, and Society",
+                "professor": "Jill Dalisay",
+                "status": "Open",
+                "image": "./src/assets/background/bc-9.jpg"
+            }
+        ]
+    }
+]
